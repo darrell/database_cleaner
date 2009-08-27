@@ -116,3 +116,4 @@ You can have the best of both worlds and use the best one for the job:
 h2. COPYRIGHT
 
 Copyright (c) 2009 Ben Mabey. See LICENSE for details.
+
